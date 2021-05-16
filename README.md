@@ -1,20 +1,12 @@
-## Hi! 👋 I'm Fernanda  🙋‍♀️
+Hi, I'm Fernanda, I am an engineer who loves to study algorithms, data and how to make education more affordable and interesting to people in Latin America.
 
-I am an engineer and developer who found in programming a way to solve everyday problems (that sometimes only exist in my mind 🤷).
+I'm currently working as Course Director at [Platzi](https://platzi.com/) and [Platzi Brasil](https://platzi.com.br/) - this means that I help experts to design high-quality courses that engage the community to keep developing its skills in software developing, design, marketing, entrepreneurship and more. If you believe you can help the community with your knowledge and expertise, reach me out.
 
-- I'm currently working as an **ABAP developer**, a very interesting language used in SAP ERP.
-- I also work as **Community Manager at Platzi** for their leg in [Brazil](https://platzi.com.br/).
-- I'm studying **System's Analysis & Development**, focusing on Java.
+The majority of my code here is some algorithms I like to study and some analysis I do. You can also find some projects I developed for my university's subjects.
 
-My interests include:
-- **Databases** 🎲
-- **Python** 🐍
-- **Data Science** 🔍
-- Artificial Intelligence 💻
+My main interest is to improve my analytics skills, that's why I'm always using Python 🐍 and creating queries 🔍
 
-You can talk to me in English, Portuguese, Spanish and German (although I'm not even close to understand a full sentence in German, I'll do my best to communicate with you 😁).
+If you want to, reach me out at my [LinkedIn](https://www.linkedin.com/in/fernandajofili/).
 
-**Reach me:**
-
-- [LinkedIn](https://www.linkedin.com/in/fernandajofili/)
 - [Platzi](https://platzi.com/@fernandajofili/)
+- [Twitter](https://twitter.com/FernandaJofili)
